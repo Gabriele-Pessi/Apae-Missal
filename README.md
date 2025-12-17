@@ -1,4 +1,4 @@
-## Projeto em Destaque
+## Projeto:
 
 ### 🌻 Site institucional – APAE.
 Projeto de site institucional desenvolvido em HTML, CSS e PHP para divulgação do trabalho social da APAE de Missal (projeto ecexpcionalmente pessoal).
