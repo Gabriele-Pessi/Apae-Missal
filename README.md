@@ -1,6 +1,6 @@
-## Projeto em Destaque
+## Projeto em Destaque:
 
-### 🌻 Site institucional – APAE Missal
+### 🌻 Site institucional – APAE.
 Projeto de site institucional desenvolvido em HTML, CSS e PHP para divulgação do trabalho social da APAE de Missal (projeto ecexpcionalmente pessoal).
 
 🔗 **Site online:** [https://gabriele-pessi.github.io/Apae-Missal/  ](https://gabriele-pessi.github.io/Apae-Missal/ )
