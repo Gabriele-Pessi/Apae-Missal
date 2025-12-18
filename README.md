@@ -1,51 +1,28 @@
 
-## 🏫 Site institucional – APAE de Missal
+🌻 Site institucional – APAE.
 
-![Banner do site](banner-maos.jpg)
+Projeto de site institucional desenvolvido em HTML, CSS e PHP para divulgação do trabalho social da APAE de Missal (projeto excepcionalmente pessoal - ainda em construção).
 
-Projeto de site institucional desenvolvido em HTML e CSS para divulgação do trabalho social da APAE de Missal.
-
----
-
-### 🔗 Acesse o site online
+🔗 Acesse o site online
 [Clique aqui para visitar o site](https://gabriele-pessi.github.io/Apae-Missal/)
 
-Você também pode clicar diretamente no banner acima para acessar o site.
-
----
-
-### 📁 Repositório
+📁 Repositório
 [Veja o código no GitHub](https://github.com/Gabriele-Pessi/Apae-Missal)
 
----
-
-### 📝 Sobre o projeto
+**Sobre o projeto**
 Este site foi desenvolvido para:
 - Divulgar informações sobre a APAE de Missal
 - Captar voluntários
 - Receber doações
 - Facilitar a comunicação com a comunidade
 
----
-
-### 💻 Tecnologias utilizadas
+**Tecnologias utilizadas**
 - **HTML5** – Estrutura do site  
 - **CSS3** – Layout e design  
 - **Git & GitHub** – Versionamento e hospedagem  
+- **PHP** - Funcionalidade do site (em construção)
 
----
-
-### 🤝 Como contribuir
-1. Faça um fork deste repositório.  
-2. Crie uma branch para sua modificação (`git checkout -b feature/nova-funcionalidade`).  
-3. Faça commit das alterações (`git commit -m "Descrição da modificação"`).  
-4. Faça push para sua branch (`git push origin feature/nova-funcionalidade`).  
-5. Abra um Pull Request no repositório original.
-
----
-
-### 📬 Contato
-Para dúvidas ou sugestões: **seu-email@example.com**
+Para dúvidas ou sugestões: **gabriele.back.pessi@gmail.com**
 
 
 
