@@ -9,20 +9,20 @@ Projeto de site institucional desenvolvido em HTML, CSS e PHP para divulgação 
 📁 Repositório
 [Veja o código no GitHub](https://github.com/Gabriele-Pessi/Apae-Missal)
 
-**Sobre o projeto:**
+**Sobre o Projeto:**
 
 Este site foi desenvolvido para:
-- Divulgar informações sobre a APAE de Missal
-- Captar voluntários
-- Receber doações
-- Facilitar a comunicação com a comunidade
+- Divulgar informações sobre a APAE de Missal.
+- Captar voluntários.
+- Receber doações.
+- Facilitar a comunicação com a comunidade.
 
-**Tecnologias utilizadas:**
+**Tecnologias usadas:**
 
-- **HTML5** – Estrutura do site  
-- **CSS3** – Layout e design  
-- **Git & GitHub** – Versionamento e hospedagem  
-- **PHP** - Funcionalidade do site (em construção)
+**HTML5** - Estrutura do site.
+**CSS3** - Layout e desing.
+**GIT e GitHub** - Versionamento e hospedagem.
+**PHP** - Funcionalidade do site (em construção). 
 
 Para dúvidas ou sugestões: **gabriele.back.pessi@gmail.com**
 
