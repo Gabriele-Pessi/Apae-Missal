@@ -47,7 +47,7 @@ header nav ul li a {
 /* Banner */
 
 .banner {
-	background: url(banner-mãos.jpg) no-repeat center center/cover;
+	background: url(banner-maos.jpg) no-repeat center center/cover;
 	color: black;
 	padding: 60px 20px;
 	text-align: center;
@@ -117,3 +117,4 @@ footer {
 	text-align: center;
 	padding: 20px;
 }
+
