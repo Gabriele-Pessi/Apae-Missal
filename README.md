@@ -4,7 +4,7 @@
 Projeto de site institucional desenvolvido em HTML, CSS e PHP para divulgação do trabalho social da APAE de Missal (projeto excepcionalmente pessoal - ainda em construção).
 
 🔗 Acesse o site online
-[Clique aqui para visitar o site](https://gabriele-pessi.github.io/Apae-Missal/)
+[Clique aqui para visitar o site](https://github.com/Gabriele-Pessi/Apae-Missal/blob/main/index.html)
 
 📁 Repositório
 [Veja o código no GitHub](https://github.com/Gabriele-Pessi/Apae-Missal)
