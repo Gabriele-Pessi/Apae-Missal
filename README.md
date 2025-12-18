@@ -1,9 +1,9 @@
-## 🌐 Site APAE Missal
+## 🌐 Projeto em Destaque
 
-Projeto de site institucional desenvolvido em HTML, CSS e PHP para a APAE de Missal (projeto excepcionalmente pessoal).
+### 🏫 Site institucional – APAE Missal
+Projeto de site institucional desenvolvido em HTML e CSS para divulgação do trabalho social da APAE de Missal.
 
-🔗 Ver site online ()
-
-📁 Repositório ()
+🔗 **Site online:** https://gabriele-pessi.github.io/Apae-Missal/  
+📁 **Repositório:** https://github.com/Gabriele-Pessi/Apae-Missal
 
 
