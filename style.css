@@ -22,7 +22,7 @@ header {
 }
 
 header .logo img {
-	width: 100px;
+	width: 150px;
 	height: auto;
 
 }
@@ -47,7 +47,7 @@ header nav ul li a {
 /* Banner */
 
 .banner {
-	background: url(https://aempreendedora.com.br/wp-content/uploads/2023/05/Inclusao-Social-A-Importancia-da-Conscientizacao-e-do-Apoio.jpg) no-repeat center center/cover;
+	background: url(banner-mãos.jpg) no-repeat center center/cover;
 	color: black;
 	padding: 60px 20px;
 	text-align: center;
