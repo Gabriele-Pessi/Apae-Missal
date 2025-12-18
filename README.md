@@ -12,7 +12,7 @@ O objetivo do projeto foi explorar como o site poderia ser estruturado e apresen
 📁 Repositório
 [Veja o código no GitHub](https://github.com/Gabriele-Pessi/Apae-Missal)
 
-Para dúvidas ou sugestões: **gabriele.back.pessi@gmail.com**
+Para dúvidas, sugestões ou o desejo de uso do modelo do site, pode me contatar pelo e-mail: **gabriele.back.pessi@gmail.com**
 
 
 
